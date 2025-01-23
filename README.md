@@ -1,4 +1,4 @@
-        ✨ Projet Personnel : Jeu des Paires avec HTML, CSS et JavaScript ✨
+                                ✨ Projet Personnel : Jeu des Paires avec HTML, CSS et JavaScript ✨
 
 
 
