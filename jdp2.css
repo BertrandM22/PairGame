@@ -1,0 +1,55 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/bf/a6/61/bfa661f787cd6c5dd1ede2494f1303bf.png');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+
+.flip-card {
+    
+    width: 100px;
+    height: 100px;
+    perspective: 3000px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.flip-card.flipped .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+}
+
+.flip-card-front {
+    transform: rotateY(180deg); /* Cache la face avant initialement */
+}
+
+.flip-card-back {
+    width: 100px;
+    height: 100px;
+    margin: 0;
+}
+
+.flip-card-back img {
+    width: 100px;
+    height: 100px;
+    margin: 0;
+}
+
+.flip-card-front img {
+    width: 100%;
+    height: 100%;
+}

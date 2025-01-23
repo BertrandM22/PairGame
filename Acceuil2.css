@@ -1,0 +1,18 @@
+
+
+body {
+    margin: 0; /* Élimine les marges par défaut du body */
+    padding: 0; /* Élimine les marges par défaut du body */
+    height: 100vh; /* Prend toute la hauteur de la fenêtre */
+    background-image: url('https://i.redd.it/exjvqbyui8461.pnghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFGHjcMT0gyhRoOby0otpWMYxfrZpiiKrdWcYClkHQ3jCYIK-c6QYVOHhYqf5StTd5b4&usqp=CAUhttps://i.pinimg.com/originals/6e/f3/6a/6ef36ade7ebcb08aad8aacf6ac68d658.gifhttps://scontent.fbru2-1.fna.fbcdn.net/v/t1.18169-9/1044982_605913769428534_985784619_n.jpg?stp=c0.70.500.500a_dst-jpg_s552x414&_nc_cat=104&ccb=1-7&_nc_sid=c43f2c&_nc_ohc=LtbyfRaz_aYQ7kNvgEOlTf2&_nc_ht=scontent.fbru2-1.fna&oh=00_AYDkfDBXeRuhoJi5inF1vFe9VstsBgLoXps9YwD3qLBglQ&oe=66DED78F'); /* Remplacez par l'URL de votre image */
+    background-size: cover; /* Couvre tout l'écran en redimensionnant l'image */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Évite la répétition de l'image */
+    background-attachment: fixed; /* Fixe l'image en arrière-plan lors du défilement */
+}
+
+
+
+
+
+
