@@ -2,7 +2,7 @@
 
 
 
- ![preview](assets\preview.png)
+ ![preview](assets/preview.png)
 
 
 
@@ -34,8 +34,10 @@ Ce projet a pour but de maîtriser la logique de jeu en JavaScript, de perfectio
 ## 🛠️ Installation & Utilisation
 1. Cloner le dépôt :
 
-git clone https://github.com/BertrandM22/PairGame.git
-cd PairGame
+
+```
+git clone https://github.com/BertrandM22/PairGame
+```
 
 2. Ouvrir le projet :
 Ouvre le fichier index.html dans ton navigateur préféré pour jouer au jeu
