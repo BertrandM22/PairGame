@@ -31,7 +31,7 @@ Toute la logique du jeu, y compris la gestion des événements de clic et le con
 🧑‍🏫 Objectif pédagogique :
 Ce projet a pour but de maîtriser la logique de jeu en JavaScript, de perfectionner la manipulation du DOM, et d'améliorer la gestion des états et des événements utilisateur.
 
-##Lien:
+## Lien:
 
 [ICI](https://pair-game-two.vercel.app/)
 
